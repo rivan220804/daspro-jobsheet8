@@ -8,7 +8,7 @@ public class Star23 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Masukkan nilai N = ");
         int N = sc.nextInt();
-        for(int i=1; i<=N; i++) {
+        for(int i=1; i<=N; i--) {
             System.out.print("*");
         }
     }

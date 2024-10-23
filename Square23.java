@@ -13,7 +13,7 @@ for(int iOuter=1; iOuter<=N; iOuter++) {
     for(int i=1; i<=N; i++) {
         System.out.print("*");
     }
-System.out.println();
+    System.out.println();
 }
 
     }
